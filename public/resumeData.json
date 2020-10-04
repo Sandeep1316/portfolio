@@ -1,0 +1,113 @@
+{
+  "main": {
+    "name": "NAGESWARA SAI SANDEEP PASUPULETI",
+    "occupation": "undergraduate student in SRKR Engineering College",
+    "description": "Looking forward to join IT Company where I can improve my skills and learn and adapt to the new technologies that are required by the Organization .",
+    "image": "background.jpg",
+    "bio": "I'm sandeep, I'm an undergraduate student. Currently I'm pursuing my dreams.",
+    "contactmessage": "Get in touch with me to receive further details.",
+    "email": "sandeeppasupuleti102@gmail.com",
+    "phone": "+91 7386957651",
+    "address": {
+      "Door-no": "4-83/1A",
+      "street": "Srinivas Nagar",
+      "city": "Kakinada",
+      "District": "East Godavari District",
+      "state": "Andhra Pradesh",
+      "country": "India",
+      "zip": "533005"
+    },
+    "resumedownload": "https://drive.google.com/file/d/17s825nXaEvBxEFgUy50mERg8eChFVava/view?usp=sharing",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/pasupuleti.nageswarasaisandeep.3",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/sandeep-pasupuleti-373000181",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/sandeep_pasupuleti102/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/Sandeep1316",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Intermediate coder in python and as well as in Internet of Things",
+    "education": [
+      {
+        "school": "Sagi Rama Krishnam Raju Engineering College",
+        "degree": "Bachelor of Technology in Computer Science Engineering",
+        "graduated": "by 2021",
+        "description": "to graduate with distinction"
+      }
+    ],
+    "work": [
+      {
+        "company": "Association of Computer Engineers",
+        "title": "Executive Body Member",
+        "years": "september 2019 - Present",
+        "description": "Conducting activities for our department students"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Python",
+        "level": "80%"
+      },
+      {
+        "name": "CSS",
+        "level": "60%"
+      },
+      {
+        "name": "IOT",
+        "level": "70%"
+      },
+      {
+        "name": "ML and AI",
+        "level": "30%"
+      },
+      {
+        "name": "HTML5",
+        "level": "70%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Door Knocking System",
+        "category": "door unlocking system when knocked with a pattern using IOT",
+        "image": "images.jpeg",
+        "url": "https://github.com/Sandeep1316/code-of-today"
+      },
+      {
+        "title": "Display of data transfer path",
+        "category": "A group of led's show the packet transfer path between two given nodes, done using IOT",
+        "image":"ham.jpeg",
+        "url": "https://github.com/Sandeep1316/data_transfer_path"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "You can fulfill your dreams, if you have the same determination and atittude.",
+        "user": "Chaitanya Ardaveeti"
+      },
+      {
+        "text": "You have the talent, if you train hard you can be one of the top notch.",
+        "user": "Dr. G.V Padmaraju"
+      }
+    ]
+  }
+}
